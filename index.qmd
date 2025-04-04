@@ -1,0 +1,11 @@
+---
+title: LEBRON
+image: "i_ca_19_73_lebron-james copy.webp"
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      href: mailto:lebron@gmail.com
+    - icon: linkedin
+      href: https://lebron.com
+---
