@@ -1,11 +1,11 @@
 ---
-title: LEBRON
-image: "i_ca_19_73_lebron-james copy.webp"
-about:
+title: Kabir Chhabra
+image: "1723604943286.jpeg"
+about: 1234
   template: jolla
   links:
     - icon: envelope
-      href: mailto:lebron@gmail.com
+      href: mailto: kchhabra24122gmail.com
     - icon: linkedin
-      href: https://lebron.com
+      href: https://www.linkedin.com/in/kabirchhabra/
 ---

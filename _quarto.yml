@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: LEBRON
+  title: Kabir Chhabra
   navbar:
     left:
       - href: index.qmd
